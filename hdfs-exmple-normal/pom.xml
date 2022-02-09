@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <!--配置项目中某些jar包的版本-->
     <properties>
-        <hadoop.version>2.7.1</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
     </properties>
 
     <dependencies>
